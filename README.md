@@ -2,7 +2,7 @@
 ## :octocat: I'm Abel Saji George
 
 - 🔭 I’m currently working on **front end web designing**
-- 🌱 I’m currently mastering <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">**InDesign**, <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">**Photoshop& <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> Illustrator**
+- 🌱 I’m currently mastering <img height="20" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogotyp.us%2Ffile%2Findesign.svg&imgrefurl=https%3A%2F%2Flogotyp.us%2Flogo%2Findesign%2F&tbnid=bjefG1U9PEGZUM&vet=12ahUKEwjTjJGO6rXtAhW49DgGHQyWAK4QMygCegUIARDCAQ..i&docid=J4LD6zQY0GkBGM&w=800&h=572&q=indesign&hl=en&ved=2ahUKEwjTjJGO6rXtAhW49DgGHQyWAK4QMygCegUIARDCAQ.png">**InDesign**, <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">**Photoshop& <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> Illustrator**
 - 👯 I’m looking to collaborate on **Web designing Projects**<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
 - 🤔 I’m looking for help with **Backend Coding** 
 - 💬 Ask me about **anything.**

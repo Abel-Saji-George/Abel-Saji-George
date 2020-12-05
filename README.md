@@ -2,7 +2,7 @@
 ## :octocat: I'm Abel Saji George
 
 - 🔭 I’m currently working on **front end web designing**
-- 🌱 I’m currently mastering <img height="20" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodix.com%2Flogo%2F525795.jpg&imgrefurl=https%3A%2F%2Flogodix.com%2Fadobe-indesign&tbnid=u-bBC4wP6LQfVM&vet=12ahUKEwjTjJGO6rXtAhW49DgGHQyWAK4QMygFegUIARDIAQ..i&docid=uVw8RNVJ8lOjAM&w=700&h=467&q=indesign&hl=en&ved=2ahUKEwjTjJGO6rXtAhW49DgGHQyWAK4QMygFegUIARDIAQ">**InDesign**, <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">**Photoshop& <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> Illustrator**
+- 🌱 I’m currently mastering <img height="20" src="">**InDesign**, <img height="20" src="">**Photoshop& <img height="20" src=""> Illustrator**
 - 👯 I’m looking to collaborate on **Web designing Projects**<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
 - 🤔 I’m looking for help with **Backend Coding** 
 - 💬 Ask me about **anything.**
@@ -13,11 +13,6 @@
   - **Discord**     **sajii#7308**
   ---
   [![GitHub Game of Life](https://github4life.herokuapp.com/don-k-jacob.gif?z=6)](https://github.com/don-k-jacob)
-  ---
-  [![](https://img.shields.io/badge/Personal-Blog-Blue?style=for-the-badge&logo=HTML)](https://www.donkjacob.me/)
-  [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/don-k-jacob/)
-  [![](https://img.shields.io/badge/@don_k_jacob-Instagram-Blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/don_k_jacob/)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/don_k_jacob?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/don_k_jacob). 
   ---
   🏆 Github Status
   ---

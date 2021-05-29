@@ -1,9 +1,9 @@
 # Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 ## :octocat: I'm Abel Saji George
 
-- 🔭 I’m currently working on **front end web designing**
+- 🔭 I’m currently working on **Flutter UI's and front end coding in webdev**
 - 🌱 I’m currently mastering <img height="20" src="">**InDesign**, <img height="20" src="">**Photoshop& <img height="20" src=""> Illustrator**
-- 👯 I’m looking to collaborate on **Web designing Projects**<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
+- 👯 I’m looking to collaborate on **Flutter projects**<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
 - 🤔 I’m looking for help with **Backend Coding** 
 - 💬 Ask me about **anything.**
 - 📫 How to reach me: 

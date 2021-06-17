@@ -1,10 +1,10 @@
 # Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 ## :octocat: I'm Abel Saji George
 
-- 🔭 I’m currently working on **Flutter UI's and front end coding in webdev**
-- 🌱 I’m currently mastering <img height="20" src="">**InDesign**, <img height="20" src="">**Photoshop& <img height="20" src=""> Illustrator**
+- 🔭 I’m currently working on **Anything and Everything related to Flutter**
+- 🌱 I’m currently mastering <img height="20" src="">**Bloc Library**, <img height="20" src="">**Flutter animations & <img height="20" src=""> Flutter Web**
 - 👯 I’m looking to collaborate on **Flutter projects**<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
-- 🤔 I’m looking for help with **Backend Coding** 
+- 🤔 I’m looking for help with **DDD Architecture** 
 - 💬 Ask me about **anything.**
 - 📫 How to reach me: 
   - **Portfolio**   [www.AbelSajiGeorge.me](https://abel-saji-george.github.io/portfolio/)
@@ -16,7 +16,7 @@
   ---
   🏆 Github Status
   ---
-  [![](https://github-readme-stats.vercel.app/api?username=don-k-jacob&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://www.donkjacob.me/)
+  [![](https://github-readme-stats.vercel.app/api?username=abel-saji-george&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://www.donkjacob.me/)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=don-k-jacob&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/don-k-jacob)
  <p align="center">
    <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=don-k-jacob&column=7" alt="don-k-jacob" /></a> </p>

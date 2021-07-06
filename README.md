@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with **DDD Architecture** 
 - 💬 Ask me about **anything.**
 - 📫 How to reach me: 
-  - **Portfolio**   [www.AbelSajiGeorge.me](https://abel-saji-george.github.io/portfolio/)
+<!--   - **Portfolio**   [www.AbelSajiGeorge.me](https://abel-saji-george.github.io/portfolio/) -->
   - **LinkedIn**    [www.linkedin.com/in/abel-saji-george](https://www.linkedin.com/in/abel-saji-george-b416591ab)
   - **Instagram**   [http://www.instagram.com/_the_hustler_06/](https://instagram.com/_the_hustler_06?igshid=x9wya3p0b8qv)
   - **Discord**     **sajii#7308**

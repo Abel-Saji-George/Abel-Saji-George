@@ -2,7 +2,7 @@
 ## :octocat: I'm Abel Saji George
 
 - 🔭 I’m currently working on **Anything and Everything related to Flutter**
-- 🌱 I’m currently mastering <img height="20" src="">**Bloc Library**, <img height="20" src="">**Flutter animations & <img height="20" src=""> Flutter Web**
+- 🌱 I’m currently mastering <img height="20" src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png">**Bloc Library**, <img height="20" src="https://res.cloudinary.com/practicaldev/image/fetch/s--xb_bTVNJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mjvizjakwj2xo2vq15ql.gif">**Flutter animations & <img height="20" src="https://miro.medium.com/max/1400/1*vgN2zojqiIYu23JPVuaSiA.jpeg"> Flutter Web**
 - 👯 I’m looking to collaborate on **Flutter projects**<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
 - 🤔 I’m looking for help with **DDD Architecture** 
 - 💬 Ask me about **anything.**
@@ -18,7 +18,6 @@
   ---
   [![](https://github-readme-stats.vercel.app/api?username=abel-saji-george&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://www.AbelSajiGeorge.me/)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abel-Saji-George&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/Abel-Saji-George)
- <p align="center">
-   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=Abel-Saji-George=7" alt="Abel-Saji-George" /></a> </p>
+ 
 
 

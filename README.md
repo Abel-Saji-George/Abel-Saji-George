@@ -2,7 +2,7 @@
 ## :octocat: I'm Abel Saji George
 
 - 🔭 I’m currently working on **Anything and Everything related to Flutter**
-- 🌱 I’m currently mastering <img height="25" src="https://plugins.jetbrains.com/files/12129/118174/icon/pluginIcon.png">**Bloc Library**, <img height="25" src="https://res.cloudinary.com/practicaldev/image/fetch/s--xb_bTVNJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mjvizjakwj2xo2vq15ql.gif">**Flutter animations & <img height="25" src="https://miro.medium.com/max/1400/1*vgN2zojqiIYu23JPVuaSiA.jpeg"> Flutter Web**
+- 🌱 I’m currently mastering <img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUzqonOyZVFEbakrUBD9L2TkzDj_FQti48Ng&usqp=CAU">**Bloc Library**, <img height="25" src="https://res.cloudinary.com/practicaldev/image/fetch/s--xb_bTVNJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mjvizjakwj2xo2vq15ql.gif">**Flutter animations & <img height="25" src="https://miro.medium.com/max/1400/1*vgN2zojqiIYu23JPVuaSiA.jpeg"> Flutter Web**
 - 👯 I’m looking to collaborate on **Flutter projects**<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
 - 🤔 I’m looking for help with **DDD Architecture** 
 - 💬 Ask me about **anything.**

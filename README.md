@@ -11,7 +11,7 @@
   - **LinkedIn**    [www.linkedin.com/in/abel-saji-george](https://www.linkedin.com/in/abel-saji-george-b416591ab)
   - **Instagram**   [http://www.instagram.com/_the_hustler_06/](https://instagram.com/_the_hustler_06?igshid=x9wya3p0b8qv)
   - **Discord**     **sajii#7308**
-  -** ps: Most of what i do are in private repositories gotta upgrade the public  ones later on  ^o^ **
+  - ps: Most of what i do are in private repositories gotta upgrade the public  ones later on  ^o^ 
   ---
   
   ---

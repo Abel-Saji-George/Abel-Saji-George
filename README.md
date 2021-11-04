@@ -12,7 +12,7 @@
   - **Instagram**   [http://www.instagram.com/_the_hustler_06/](https://instagram.com/_the_hustler_06?igshid=x9wya3p0b8qv)
   - **Discord**     **sajii#7308**
   ---
-  [![GitHub Game of Life](https://github4life.herokuapp.com/don-k-jacob.gif?z=6)](https://github.com/Abel-Saji-George)
+  
   ---
   🏆 Github Status
   ---

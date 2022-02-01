@@ -4,7 +4,7 @@
 
 - 🔭  currently working on **Anything and Everything related to Flutter**
 
-- 👯 I’m looking forward to collaborate on **Cool projects and product ideas**<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
+- 👯 I’m looking forward to collaborate on **Cool projects/products**<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
 - 🤔 I’m looking for help with **DDD Architecture** 
 - 💬 Ask me about **anything.**
 

@@ -10,11 +10,7 @@
 
  ^0^⚡Kachow⚡
  ---
-**Contact Me**📞
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-saji-george-b416591ab/) [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_the_hustler_06?igshid=x9wya3p0b8qv)  [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919497877775)
- 
-##
 
 
  ##  🏆 Github Status
@@ -45,4 +41,7 @@
 
  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+## Contact Me📞
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-saji-george-b416591ab/) [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_the_hustler_06?igshid=x9wya3p0b8qv)  [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919497877775)  [![](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31iamknsnvhtiz4sq2dxrq2uyyui?si=BxXkK4CyTgODj6EQaVNKGA)
 

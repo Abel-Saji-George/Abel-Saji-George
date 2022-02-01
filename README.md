@@ -5,8 +5,6 @@
 - 🔭  currently working on **Anything and Everything related to Flutter**
 
 - 👯 I’m looking forward to collaborate on **Cool projects/products**<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
-<br/>
-<br/>
 - 🤔 I’m looking for help with **DDD Architecture** 
 - 💬 Ask me about **anything.**
 
@@ -44,7 +42,7 @@
 
  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## Connect with me📞🌝
+## Connect with me<img src="https://media2.giphy.com/media/AEtG3ZjmW9rErXXzzg/giphy.gif?cid=6c09b952lvlr7gudsqrr8vbuhkre4phaw3w8qtbc076870gp&rid=giphy.gif&ct=s" width="35px">🌝
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-saji-george-b416591ab/) [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_the_hustler_06?igshid=x9wya3p0b8qv)  [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919497877775)  [![](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31iamknsnvhtiz4sq2dxrq2uyyui?si=BxXkK4CyTgODj6EQaVNKGA)
 

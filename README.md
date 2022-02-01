@@ -23,7 +23,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abel-saji-george&show_icons=true&theme=bear&icon_color=6392DF&hide=prs&hide_border=true" alt="abel-saji-george's GitHub Stats" />
 </a> 
 <br/>
-
+<br/>
 <a href="https://github.com/abel-saji-george">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel-saji-george&layout=compact&show_icons=true&theme=bear&icon_color=6392DF&hide=prs&hide_border=true" />
 </a>

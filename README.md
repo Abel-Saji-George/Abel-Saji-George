@@ -1,11 +1,11 @@
 
 # Hey there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">😁 
-## :octocat: I'm Abel Saji George
+## :octocat: I'm Abel Saji George  <img src="https://github.com/Abel-Saji-George/Abel-Saji-George/blob/main/squirrelBg.gif" width="40"/>
 
 - 🔭  currently working on **Anything and Everything related to Flutter**
 
-- 👯 I’m looking forward to collaborate on **Cool projects/products**<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
-- 🤔 I’m looking for help with **DDD Architecture** 
+- 👯 I’m looking forward to collaborate on Cool **projects/products**<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
+- 🤔 I’m in need of help with **DDD Architecture** 
 - 💬 Ask me about **anything.**
 
  ^0^⚡Kachow⚡

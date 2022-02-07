@@ -32,7 +32,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abel-saji-george&theme=bear&hide_border=true&fire=DD2727&stroke=DD2727&ring=A41FAE&sideNums=B3DADD&currStreakLabel=DD7A18&sideLabels=57DD3B&dates=A41FAE)
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=abel-saji-george)
+ ![](https://visitor-badge.glitch.me/badge?page_id=abel-saji-george)
 [![Repos Badge](https://badges.pufler.dev/repos/abel-saji-george)](https://abel-saji-george.github.io/)
 [![Commits Badge](https://badges.pufler.dev/commits/all/abel-saji-george)](https://abel-saji-george.github.io/)
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/abel-saji-george)](https://abel-saji-george.github.io/)
